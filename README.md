@@ -1,5 +1,6 @@
 # Détails : 
 Projet réalisé lors de ma L1. Pas finis mais assez complet. Permet la gestion de base de donnée depuis un interface. Avec différents utilisateurs (admin ou non).
+Code sécurisé car j'ai galérer à créer un utilisateur 1 an après depuis le code source
 Pour tester : 
 id admin : Maxjulienne
 mdp admin : 123
